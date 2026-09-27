@@ -1,0 +1,16 @@
+{
+  "name": "qualt",
+  "owner": {
+    "name": "xcaeser"
+  },
+  "plugins": [
+    {
+      "name": "qualt",
+      "source": "./plugins/qualt",
+      "description": "Read project boards and track work through Qualt."
+    }
+  ],
+  "metadata": {
+    "description": "Qualt plugins for coding agents."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "qualt",
+  "interface": {
+    "displayName": "Qualt"
+  },
+  "plugins": [
+    {
+      "name": "qualt",
+      "source": {
+        "source": "local",
+        "path": "./plugins/qualt"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
