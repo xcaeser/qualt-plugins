@@ -1,6 +1,6 @@
 {
   "name": "qualt",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Read project boards and track coding work through the Qualt MCP server.",
   "author": {
     "name": "xcaeser"
