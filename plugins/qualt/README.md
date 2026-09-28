@@ -9,18 +9,18 @@ OAuth authorization code with PKCE; no API key or secret belongs in the plugin.
 Codex:
 
 ```sh
-codex plugin marketplace add xcaeser/qualt-plugins
-codex plugin add qualt@qualt
+codex plugin marketplace add xcaeser/xcaeser-plugins
+codex plugin add qualt@xcaeser
 ```
 
 Claude Code:
 
 ```sh
-claude plugin marketplace add xcaeser/qualt-plugins
-claude plugin install qualt@qualt
+claude plugin marketplace add xcaeser/xcaeser-plugins
+claude plugin install qualt@xcaeser
 ```
 
-The public marketplace is [xcaeser/qualt-plugins](https://github.com/xcaeser/qualt-plugins).
+The public marketplace is [xcaeser/xcaeser-plugins](https://github.com/xcaeser/xcaeser-plugins).
 It contains only the plugins and installation instructions. The Qualt application
 is proprietary and remains in a separate private repository.
 

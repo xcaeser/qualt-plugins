@@ -1,5 +1,5 @@
 {
-  "name": "qualt",
+  "name": "xcaeser",
   "owner": {
     "name": "xcaeser"
   },
@@ -11,6 +11,6 @@
     }
   ],
   "metadata": {
-    "description": "Qualt plugins for coding agents."
+    "description": "xcaeser plugins for coding agents."
   }
 }
