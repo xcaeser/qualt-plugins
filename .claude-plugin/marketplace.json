@@ -3,13 +3,7 @@
   "owner": {
     "name": "xcaeser"
   },
-  "plugins": [
-    {
-      "name": "qualt",
-      "source": "./plugins/qualt",
-      "description": "Read project boards and track work through Qualt."
-    }
-  ],
+  "plugins": [],
   "metadata": {
     "description": "xcaeser plugins for coding agents."
   }

@@ -1,10 +1,8 @@
 # xcaeser plugins
 
-Plugins for Codex and Claude Code.
+Plugins for Claude Code.
 
-| Plugin | Description |
-| --- | --- |
-| [qualt](plugins/qualt/README.md) | Connects to [Qualt](https://work.elbantli.com) to read project boards and track work. |
+No plugins are published at the moment. [Qualt](https://work.elbantli.com) is available as an MCP connector at `https://work.elbantli.com/mcp`.
 
 This repository contains only plugin manifests and workflow skills. It contains no application source, credentials, or user data.
 
